@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**SagongRyung/SagongRyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ℹ️ About Me
 
-Here are some ideas to get you started:
+## Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,dart,flutter,py,fastapi,ruby,js,ts,react,vscode,idea,github,githubactions&perline=10)](https://skillicons.dev)
+
+## Status
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SagongRyung&count_private=true&show_icons=true&theme=dark" height="200">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagongRyung&layout=compact&theme=dark&hide=html" height="200">
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SagongRyung&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
