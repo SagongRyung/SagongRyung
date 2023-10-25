@@ -3,7 +3,7 @@
 
 ## Skill Set
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,dart,flutter,py,fastapi,ruby,js,ts,react,vscode,idea,github,githubactions&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Bash,java,kotlin,androidstudio,dart,flutter,py,fastapi,ruby,js,ts,react,vscode,idea,github,githubactions,&perline=10)](https://skillicons.dev)
 
 ## Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
