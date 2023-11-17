@@ -1,5 +1,5 @@
 # ℹ️ About Me
-![github-contribution-grid-snake](https://raw.githubusercontent.com/SagongRyung/SagongRyung/main/img/snake.svg)
+![github-user-contribution](https://raw.githubusercontent.com/SagongRyung/SagongRyung/main/img/snake.svg)
 
 ## Skill Set
 
