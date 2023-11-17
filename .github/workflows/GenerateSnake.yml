@@ -22,7 +22,7 @@ jobs:
           svg_out_path: ./img/snake.svg
 
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@9
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main  
           message: ':rocket: Update'
