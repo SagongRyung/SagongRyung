@@ -2,9 +2,9 @@ name: GenerateSnake
 on:
   workflow_dispatch:
   schedule:
-    # - cron: "0 1 * * *"
     - cron: "5 * * * *"
-
+    # - cron: "0 1 * * *"
+    
 jobs:
   update-repository:
     name: Update this repo's README with repository_owner
@@ -12,6 +12,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+
       - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
@@ -19,6 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./img/snake.gif
           svg_out_path: ./img/snake.svg
+
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
